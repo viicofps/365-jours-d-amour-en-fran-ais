@@ -51,8 +51,8 @@ function displayContent() {
 
         // Afficher le message du jour et le compte à rebours
         const messages = [
-            "💕 Chaque jour loin de toi me rappelle à quel point tu es précieuse à mes yeux. Je t'aime 💕",
-            "💕 Défi du jour : Envoie moi 3 rêves que tu voudrais réaliser avec moi 💕",
+            "💕 Chaque jour loin de toi me rappelle à quel point tu es précieuse à mes yeux. Je t'aime et je te souhaite une merveilleuse journée ! 💕",
+            "💕 Défi du jour : Envoie moi 3 rêves que tu souhaiterais réaliser avec moi 💕",
             "💕  💕",
             "💕  💕",
             "💕  💕",
