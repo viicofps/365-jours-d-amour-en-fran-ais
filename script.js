@@ -1,5 +1,5 @@
-const correctUsername = "victor"; // Identifiant que tu choisis
-const correctPassword = "1234"; // Mot de passe que tu choisis
+const correctUsername = "Elle"; // Identifiant que tu choisis
+const correctPassword = "jetaime"; // Mot de passe que tu choisis
 const loginForm = document.getElementById("loginForm");
 const usernameField = document.getElementById("username");
 const passwordField = document.getElementById("password");
@@ -51,7 +51,7 @@ function displayContent() {
 
         // Afficher le message du jour et le compte à rebours
         const messages = [
-            "💕 Je t'aime efsefesfsefsfe 💕",
+            "💕 Je t'aime 💕",
             "Message du jour 2 💕",
             "Message du jour 3 💕",
             "Message du jour 4 💕",
