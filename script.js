@@ -1,5 +1,5 @@
 const correctUsername = "Elle"; // Identifiant que tu choisis
-const correctPassword = "jetaime"; // Mot de passe que tu choisis
+const correctPassword = "Amour2MaVie"; // Mot de passe que tu choisis
 const loginForm = document.getElementById("loginForm");
 const usernameField = document.getElementById("username");
 const passwordField = document.getElementById("password");
@@ -10,7 +10,7 @@ const contentSection = document.getElementById("content");
 const countdown = document.getElementById("countdown");
 const dailyMessage = document.getElementById("dailyMessage");
 
-const startDate = new Date('February 13, 2025 03:00:00 GMT+0100').getTime(); // Début à 3h du matin heure FR
+const startDate = new Date('February 14, 2025 03:00:00 GMT+0100').getTime(); // Début à 3h du matin heure FR
 const endDate = new Date('February 13, 2026 23:59:00 GMT+0100').getTime();
 const now = new Date().getTime();
 
@@ -51,10 +51,21 @@ function displayContent() {
 
         // Afficher le message du jour et le compte à rebours
         const messages = [
-            "💕 Je t'aime 💕",
-            "Message du jour 2 💕",
-            "Message du jour 3 💕",
-            "Message du jour 4 💕",
+            "💕 Chaque jour loin de toi me rappelle à quel point tu es précieuse à mes yeux. Je t'aime 💕",
+            "💕 Défi du jour : Envoie moi 3 rêves que tu voudrais réaliser avec moi 💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
+            "💕  💕",
             // Ajoute ici les 365 messages
         ];
 
