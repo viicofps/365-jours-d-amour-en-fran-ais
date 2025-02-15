@@ -53,9 +53,9 @@ function displayContent() {
         const messages = [
             "💕 Chaque jour loin de toi me rappelle à quel point tu es précieuse à mes yeux. Je t'aime et je te souhaite une merveilleuse journée ! 💕",
             "💕 Défi du jour : Envoie moi 3 rêves que tu souhaiterais réaliser avec moi 💕",
-            "💕  💕",
-            "💕  💕",
-            "💕  💕",
+            "💕 Défi du jour : Raconte moi un souvenir mignon ou drôle que tu as de nous deux et pourquoi il t’a marquée 💕",
+            "💕 Défi du jour : Écris-nous une lettre (même courte) que nous révouvrirons dans 3 ans 💕",
+            "💕 Poème du jour :\n Mon Amour, \nQuand je me réveille, je pense à toi \nQuand je souris, c’est grâce à toi.\nChaque jour, tu rends ma vie plus belle, \nTu es mon étoile, ma douce étincelle.💕",
             "💕  💕",
             "💕  💕",
             "💕  💕",
