@@ -66,7 +66,6 @@ function displayContent() {
             "💕  💕",
             "💕  💕",
             "💕  💕",
-            // Ajoute ici les 365 messages
         ];
 
         // Calcul du bon index de message
